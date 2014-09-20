@@ -18,6 +18,8 @@ Love WordPress SEO by Yoast, but hate its dashboard clutter? Well, look no furth
 
 Want to contribute? [Fork the GitHub repository](https://github.com/hlashbrooke/WordPress-SEO-Tamer).
 
+    "What a dumb plugin" - Joost de Valk (Yoast)
+
 == Installation ==
 
 Installing "WordPress SEO Tamer" can be done either by searching for "WordPress SEO Tamer" via the "Plugins > Add New" screen in your WordPress dashboard, or by using the following steps:
