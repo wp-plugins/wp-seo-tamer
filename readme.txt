@@ -47,6 +47,12 @@ It depends how you use WordPress SEO. If you like all of the background function
 
 Simply use the `wordpress_seo_tamer_exclude_post_types` filter to return an array of post types for which you would like the columns and meta box to display.
 
+== Screenshots ==
+
+1. Before & after views of the posts list table
+2. Before & after views of the post edit screen
+3. Before & after views of the taxonomy edit screen
+
 == Changelog ==
 
 = 1.0 =
