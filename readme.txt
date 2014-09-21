@@ -17,7 +17,6 @@ Love WordPress SEO by Yoast, but hate its dashboard clutter? Well, look no furth
 "WordPress SEO Tamer" fixes this problem by removing all of the admin columns, meta boxes and custom fields. There are no options to configure - just activate the plugin and enjoy a cleaner WordPress dashboard without losing any of the other useful functionality provided by WordPress SEO. The changes apply to all post types and taxonomies.
 
 This plugin is great for:
-
 * Removing fields & columns that would otherwise confuse your clients
 * De-cluttering your WordPress dashboard, but not losing the power of WordPress SEO's great background features
 
@@ -41,7 +40,7 @@ Nothing at all - I just don't like the huge amount of dashboard clutter that his
 
 = Doesn't this plugin just remove all of WordPress SEO's important functions? =
 
-It depends how your use WordPress SEO. If you like all of the background functions (meta data, titles, sitemap, etc.), but don't use the post-specific functions then you need this plugin. However, if you like to customise your SEO info for each post, then this plugin is not for you.
+It depends how you use WordPress SEO. If you like all of the background functions (meta data, titles, sitemap, etc.), but don't use the post-specific functions then you need this plugin. However, if you like to customise your SEO info for each post, then this plugin is not for you.
 
 = How do I get the admin columns and meta box to display for a few specific post types? =
 
