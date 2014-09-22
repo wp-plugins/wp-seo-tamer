@@ -23,7 +23,8 @@ This plugin is great for:
 
 Want to contribute? [Fork the GitHub repository](https://github.com/hlashbrooke/WordPress-SEO-Tamer).
 
-    "What a dumb plugin." - Joost de Valk (Yoast)
+**Praise for WordPress SEO Tamer:**
+> "What a dumb plugin." - Joost de Valk (Yoast)
 
 == Installation ==
 
