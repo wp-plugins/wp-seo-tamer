@@ -41,7 +41,11 @@ Nothing at all - I just don't like the huge amount of dashboard clutter that his
 
 = Doesn't this plugin just remove all of WordPress SEO's important functions? =
 
-It depends how you use WordPress SEO. If you like all of the background functions (meta data, titles, sitemap, etc.), but don't use the post-specific functions then you need this plugin. However, if you like to customise your SEO info for each post, then this plugin is not for you.
+It depends how you use WordPress SEO. If you like all of the background functions (meta data, titles, sitemap, etc.), but don't use the post-specific functions then you'll find this plugin useful. However, if you like to customise your SEO info for each post, then this plugin is not for you.
+
+= Can't I just hide the SEO columns and boxes using the Screen Options tab? =
+
+Yes you can (although you can't hide the fields on the taxonomy edit screen that way), but if you're building sites for clients then this plugin will allow you to do that without having to explain Screen Options to each of them. The Screen Options tab is largely unused and when dealing with clients who don't use WordPress very often, it's very handy to have these columns and boxes hidden by default for them.
 
 == Screenshots ==
 
